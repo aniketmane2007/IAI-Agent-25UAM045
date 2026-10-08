@@ -21,6 +21,7 @@ Date: August 31, 2026
 - Designed and refined the simulation termination condition using the `are_all_clean()` method.
 - Added step limits and handled edge-case termination to prevent infinite loops when both rooms become clean.
 - Created proper CLI output logs and tested execution across various initial state configurations.
+- Created the diagrams using draw.io website.
 
 ---
 
